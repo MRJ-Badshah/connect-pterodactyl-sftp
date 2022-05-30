@@ -27,7 +27,7 @@ Video after a long time because leaved gaming videos.
 
 
 
-2) ✓ Now Go to play store or any app store and Search "**Termius**". Install the first one and open it.
+2) ✓ Now Go to play store or any app store and Search "**`Termius`**". Install the first one and open it.
 
 
 
@@ -49,7 +49,7 @@ Video after a long time because leaved gaming videos.
 
 
 
-4) ✓ Now **Create new host** as shown in video!
+4) ✓ Now **`Create new host`** as shown in video!
 
 > I taken "__[Alaister.net](alaister.net)__*" as example.
 You can use this step for any host.
@@ -65,24 +65,24 @@ You can use this step for any host.
 
 
 
-5) ✓ **Fill host name** in Termius from panel setting.  (As showing in video)
+5) ✓ **`Fill host name`** in Termius from panel setting.  (As showing in video)
 
-6) ✓ And also fill other things like **username and password**. (As showing in video)
+6) ✓ And also fill other things like **`username and password`**. (As showing in video)
 
  In Alaister you will get your password in client panel so get it from thier. 
 
-7) ✓ Now **Go to SFTP Tab** in Termius 
+7) ✓ Now **`Go to SFTP Tab`** in Termius 
 8) ✓ Click on "`Termius Local:/`" to select host.
-9) ✓ Swipe to **Host tab** and select your host that was created in previous step.
-10) ✓ **Now you are able to enjoy ftp in mobile too.**
+9) ✓ Swipe to **`Host tab`** and select your host that was created in previous step.
+10) ✓ **`Now you are able to enjoy ftp in mobile too.`**
 
 Users After Watching this! ➜ This too much simple like Jalebi(Funnel Cake) 😂
 
 Example taken hosting link, YT channel link, discord server link all are in description.
 ## Links
-> [YT link](https://youtube.com/channel/UCs0DKoqXikaNpnDv0ppuNpg)
+> **[YT link](https://youtube.com/channel/UCs0DKoqXikaNpnDv0ppuNpg)**
 
-> [My Discord Server link](https://discord.gg/s5bUtPSxpQ)
+> **[My Discord Server link](https://discord.gg/s5bUtPSxpQ)**
 
-> [Hosting Server link](https://discord.gg/NQuwgCnC3X)
+> **[Hosting Server link](https://discord.gg/NQuwgCnC3X)**
 
